@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GitMaster", "GitMaster\GitMaster.vcxproj", "{A395F9A2-0C8D-4E82-8889-3C5036F4FCC0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Feature-2", "Feature-2\Feature-2.vcxproj", "{04B431D9-C9ED-4399-B096-8C4937000295}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{A395F9A2-0C8D-4E82-8889-3C5036F4FCC0}.Release|x64.Build.0 = Release|x64
 		{A395F9A2-0C8D-4E82-8889-3C5036F4FCC0}.Release|x86.ActiveCfg = Release|Win32
 		{A395F9A2-0C8D-4E82-8889-3C5036F4FCC0}.Release|x86.Build.0 = Release|Win32
+		{04B431D9-C9ED-4399-B096-8C4937000295}.Debug|x64.ActiveCfg = Debug|x64
+		{04B431D9-C9ED-4399-B096-8C4937000295}.Debug|x64.Build.0 = Debug|x64
+		{04B431D9-C9ED-4399-B096-8C4937000295}.Debug|x86.ActiveCfg = Debug|Win32
+		{04B431D9-C9ED-4399-B096-8C4937000295}.Debug|x86.Build.0 = Debug|Win32
+		{04B431D9-C9ED-4399-B096-8C4937000295}.Release|x64.ActiveCfg = Release|x64
+		{04B431D9-C9ED-4399-B096-8C4937000295}.Release|x64.Build.0 = Release|x64
+		{04B431D9-C9ED-4399-B096-8C4937000295}.Release|x86.ActiveCfg = Release|Win32
+		{04B431D9-C9ED-4399-B096-8C4937000295}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

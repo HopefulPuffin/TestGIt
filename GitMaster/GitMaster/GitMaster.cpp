@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "this is the Master\n";
+    std::cout << "this has feature 2 now\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
